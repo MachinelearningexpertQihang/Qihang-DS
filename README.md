@@ -1,2 +1,3 @@
-# Qihang-DS
-BU student majoring in data science
+# Qihang-DS210
+ID: U44907286
+DS210 Final Project
